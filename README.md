@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **BPopek/BPopek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![hero image/gif from website](https://github.com/bpopek/bpopek/raw/master/assets/BP-welcome.gif)](https://www.betsypopek.com)
-
 
 I’m a freelance Software Developer and Graphic Designer. 
 
