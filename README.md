@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 -->
 [![hero image/gif from website](https://github.com/bpopek/bpopek/raw/master/assets/BP-welcome.gif)](https://www.betsypopek.com)
 
-I’m a freelance Software Developer and Graphic Designer. 
+I’m a freelance Software Developer and Graphic Designer based in Salt Lake City, Utah.  
 
-* Software Development:
+Software Development:
   * Front End: React, JavaScript, ES6, HTML5, CSS, Sass, Bootstrap, jQuery
   * Back End: Node.js, Express, MongoDB, Mongoose
   * Other: Git, JSON, Agile, Wordpress
-
-* Design:
+Design:
   * Adobe Creative Suite: InDesign, Photoshop, Illustrator
   * Other: QuarkXPress, WordPress
-
-* UX: 
+UX: 
   * InVision, Sketch, Balsamiq
 
 For more information about me please check out my website at [betsypopek.com](https://www.betsypopek.com/).
