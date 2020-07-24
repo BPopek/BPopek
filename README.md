@@ -22,9 +22,11 @@ Software Development:
   * Front End: React, JavaScript, ES6, HTML5, CSS, Sass, Bootstrap, jQuery
   * Back End: Node.js, Express, MongoDB, Mongoose
   * Other: Git, JSON, Agile, Wordpress
+  
 Design:
   * Adobe Creative Suite: InDesign, Photoshop, Illustrator
   * Other: QuarkXPress, WordPress
+  
 UX: 
   * InVision, Sketch, Balsamiq
 
