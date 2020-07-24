@@ -31,6 +31,7 @@ Design:
 UX: 
 • InVision, Sketch, Balsamiq
 
+Contact:
 
 For more information about me please check out my full portfolio at [betsypopek.com](https://www.betsypopek.com/).
 ### You can also find me on
